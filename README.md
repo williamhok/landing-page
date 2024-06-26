@@ -6,3 +6,6 @@ In this project, I am going to demonstrate my skill both HTML and CSS to make a 
 
 ### Font
 ![alt text](img/02.png)
+
+## Live preview:
+https://williamhok.github.io/landing-page/
