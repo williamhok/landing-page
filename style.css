@@ -97,6 +97,7 @@
 
 .content3 {
     background-color: #e5e7eb;
+    padding: 100px 300px 100px 300px;
 }
 
 .content3-quote {
@@ -104,4 +105,10 @@
     font-weight: 300;
     font-style: italic;
     color: #1f2937;
+}
+
+.content3-author {
+    display: flex;
+    justify-content: end;
+    font-weight: 800;
 }
