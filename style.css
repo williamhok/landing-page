@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.topnav, .content1, .footer {
+    background-color: #1f2937;
+}
+
+.content1 .top {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.content1 .bot, .topnav-right a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
