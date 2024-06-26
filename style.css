@@ -48,7 +48,9 @@
     color: #f9faf8;
 }
 
-.content1-btn, .content4-container {
+.content1-btn, 
+.content4-container,
+.btn {
     background-color: #3882f6;
 }
 
@@ -111,4 +113,27 @@
     display: flex;
     justify-content: end;
     font-weight: 800;
+}
+
+.content4 {
+    margin: 100px 200px 100px 200px;
+}
+
+.content4-container {
+    padding: 100px 200px 100px 200px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.text-bold {
+    font-weight: 800;
+}
+
+.btn {
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 25px 10px 25px;
 }
