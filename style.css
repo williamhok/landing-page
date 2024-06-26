@@ -17,3 +17,18 @@
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.topnav-left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.content1-btn, .content4-container {
+    background-color: #3882f6;
+}
+
+.content2 h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
