@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav .left {
+    background-color: antiquewhite;
+}
+
+.nav .right {
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.nav .right > a {
+    text-decoration: none;
+}
