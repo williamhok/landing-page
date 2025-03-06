@@ -121,3 +121,7 @@
     font-weight: 900;
     align-self: flex-end;
 }
+
+.content4 {
+    padding: 50px 100px 50px 100px;
+}
