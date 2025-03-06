@@ -9,21 +9,21 @@
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
-    padding: 8px;
+    padding: 8px 100px 8px 100px;
 }
 
-.nav .left {
+.nav-left {
     font-size: 24px;
     color: #f9faf8;
 }
 
-.nav .right {
+.nav-right {
     display: flex;
     align-items: center;
     gap: 16px;
 }
 
-.nav .right > a {
+.nav-right > a {
     text-decoration: none;
     font-size: 18px;
     color: #e5e7eb;
@@ -33,26 +33,26 @@
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
-    padding: 8px;
+    padding: 50px 100px 50px 100px;
 }
 
-.content1 .left {
+.content1-left {
     display: flex;
     flex-direction: column;
 }
 
-.content1 .left > h1 {
+.content1-left > h1 {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
 }
 
-.content1 .left > p {
+.content1-left > p {
     font-size: 18px;
     color: #e5e7eb;
 }
 
-.content1 .right {
+.content1-right {
     display: flex;
     align-items: center;
     justify-content: center;
