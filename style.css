@@ -57,8 +57,14 @@
     align-items: center;
     justify-content: center;
     background-color: grey;
+    color: #f9faf8;
 }
 
 .btn {
     align-self: flex-start;
+    color: #f9faf8;
+    background-color: #3882f6;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
 }
