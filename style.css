@@ -75,3 +75,28 @@
     justify-content: center;
     align-items: center;
 }
+
+.content2-header {
+    padding: 16px;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.content2-cards {
+    padding: 0 100px 32px 100px;
+    display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
