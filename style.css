@@ -136,6 +136,14 @@
     gap: 100px;
 }
 
+.container-text {
+    color: #f9faf8;
+}
+
+#text-header {
+    font-weight: 900;
+}
+
 .btn2 {
     background-color: #3882f6;
     border: 1px solid #f9faf8;
