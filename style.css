@@ -102,3 +102,18 @@
     border: 5px solid #3882f6;
     border-radius: 10px;
 }
+
+.content3 {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.author {
+    font-weight: 900;
+}
